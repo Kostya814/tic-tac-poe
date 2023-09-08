@@ -51,8 +51,8 @@ public class MainActivity extends AppCompatActivity {
     public void generateBoard(int rowCount, int columnCount, LinearLayout board)
     {
         for (int row=0 ; row<rowCount;row++) {
-            LinearLayout rowCointener = generateRow(columnCount);
-            board.addView(rowCointener);
+            LinearLayout rowСontainer = generateRow(columnCount);
+            board.addView(rowСontainer);
         }
     }
     private LinearLayout generateRow(int squaresCount)
