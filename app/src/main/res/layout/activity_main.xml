@@ -25,7 +25,7 @@
             android:id="@+id/clear_board_value"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Обновить"
+            android:text="@string/refresh"
             android:layout_marginTop="15dp" />
     </LinearLayout>
 

@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Vashkevi</string>
+    <string name="app_name">tic_tac_poe;</string>
+    <string name="refresh">Начать заново</string>
 </resources>
